@@ -3,3 +3,10 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 
 ![GITHUB](https://kanbanize.com/blog/wp-content/uploads/2014/11/GitHub.jpg)
 * [É assim que se adiciona um link](https://www.youtube.com/watch?v=bpOSxM0rNPM) 
+
+# Entregáveis do Hands-on 00
+## D01: Criação da Máquina Virtual Ubuntu.
+
+
+## D02: Cadastramento e criação de repositório no Github.
+Tarefa concluida 
