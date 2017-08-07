@@ -8,8 +8,7 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 ## D01: Criação da Máquina Virtual Ubuntu.
 
 
-## D02: Cadastramento e criação de repositório no Github.
-Tarefa concluida 
+## [D02: Cadastramento e criação de repositório no Github.](https://github.com/willalvesufrn/william_DCO2004) 
 
 ## [D03: Construção do arquivo Pratica01.ipynb](http://nbviewer.jupyter.org/github/willalvesufrn/william_DCO2004/blob/master/Pratica01.ipynb)
 
