@@ -1,2 +1,2 @@
-# william_DCO2004
-2017.2
+# Repositório da disciplina DCO2004 - William Soares Alves.
+Esse repositório foi criado para fazer as práticas da disciplina de Laboratório de Prototipagem de Sistemas de Comunicação (DCO2004), bem como servir de meio viabilizador para entregar as atividades propostas. 
