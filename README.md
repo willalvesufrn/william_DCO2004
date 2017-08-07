@@ -10,3 +10,5 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 
 ## D02: Cadastramento e criação de repositório no Github.
 Tarefa concluida 
+
+## D03: Construção do arquivo Pratica01.ipynb [confira aqui](http://nbviewer.jupyter.org/github/willalvesufrn/william_DCO2004/blob/master/Pratica01.ipynb)
