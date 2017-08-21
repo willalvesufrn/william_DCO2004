@@ -22,3 +22,5 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 Quando foi executado o comando "whos" foi mostrado todas os detalhes das variáveis. Nesse caso temos:
 - Duas variáveis da classe char, que é um vetor de dimenção 1x23, ambas ocupando um espaço de 46 Bytes.
 - Quatro variáveis da classe Double, uma delas é um vetor de dimenção 1x1, ocupando um espaço de 8 Bytes e o restante das variáveis são compostas por um vetor de dimenção 1x10, ocupando um espaço de 80 Bytes.
+
+## 
