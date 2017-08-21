@@ -18,4 +18,4 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 
 ## [D01: Discussão do Passo 08 da Prática 01: Ambiente de edição.](http://nbviewer.jupyter.org/github/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2001/Entrega_h01%20-%20D01.ipynb)
 
-## ![D02: Passo 03 da Prática 02: Ambiente de depuração (debug).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2001/foto_3.png)
+## D02: Passo 03 da Prática 02: Ambiente de depuração (debug).![D02](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2001/foto_3.png)
