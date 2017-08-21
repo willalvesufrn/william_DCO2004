@@ -15,3 +15,5 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 ## [D04: Construção do arquivo testMatlab.ipynb](http://nbviewer.jupyter.org/github/willalvesufrn/william_DCO2004/blob/master/testMatlabwill.ipynb)
 
 # Entregáveis do Hands-on 01
+
+## [D01: Discussão do Passo 08 da Prática 01: Ambiente de edição](http://nbviewer.jupyter.org/github/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2001/Entrega_h01%20-%20D01.ipynb)
