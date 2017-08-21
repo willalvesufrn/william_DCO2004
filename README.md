@@ -23,4 +23,4 @@ Quando foi executado o comando "whos" foi mostrado todas os detalhes das variáv
 - Duas variáveis da classe char, que é um vetor de dimenção 1x23, ambas ocupando um espaço de 46 Bytes.
 - Quatro variáveis da classe Double, uma delas é um vetor de dimenção 1x1, ocupando um espaço de 8 Bytes e o restante das variáveis são compostas por um vetor de dimenção 1x10, ocupando um espaço de 80 Bytes.
 
-## 
+## [D03: Realizar a Prática 03: Terceiro roteador (50% da dimensão vertical e a 80% da dimensão horizontal com Matlab).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D03.ipynb)
