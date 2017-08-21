@@ -16,7 +16,7 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 
 # Entregáveis do Hands-on 01
 
-## [D01: Discussão do Passo 08 da Prática 01: Ambiente de edição.](http://nbviewer.jupyter.org/github/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2001/Entrega_h01%20-%20D01.ipynb)
+## [D01: Discussão do Passo 08 da Prática 01: Ambiente de edição.](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2001/Entrega_h01%20-%20D01.ipynb)
 
 ## D02: Passo 03 da Prática 02: Ambiente de depuração (debug).![D02](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2001/foto_3.png)
 Quando foi executado o comando "whos" foi mostrado todas os detalhes das variáveis. Nesse caso temos:
