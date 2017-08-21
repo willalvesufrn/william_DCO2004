@@ -5,14 +5,14 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 * [É assim que se adiciona um link](https://www.youtube.com/watch?v=bpOSxM0rNPM) 
 
 # Entregáveis do Hands-on 00
-## D01: Criação da Máquina Virtual Ubuntu.
 
+## D01: Criação da Máquina Virtual Ubuntu.
 
 ## [D02: Cadastramento e criação de repositório no Github.](https://github.com/willalvesufrn/william_DCO2004) 
 
 ## [D03: Construção do arquivo Pratica01.ipynb.](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2000/Pratica01.ipynb)
 
-## [D04: Construção do arquivo testMatlab.ipynb.](http://nbviewer.jupyter.org/github/willalvesufrn/william_DCO2004/blob/master/testMatlabwill.ipynb)
+## [D04: Construção do arquivo testMatlab.ipynb.](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on%2000/testMatlabwill.ipynb)
 
 # Entregáveis do Hands-on 01
 
