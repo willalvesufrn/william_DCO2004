@@ -21,3 +21,5 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 ## [D02: Passo 03 da Prática 02: Ambiente de depuração (debug).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D02.ipynb)
 
 ## [D03: Realizar a Prática 03: Terceiro roteador (50% da dimensão vertical e a 80% da dimensão horizontal com Matlab).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D03.ipynb)
+
+## [D04: Realizar a Prática 04: Terceiro roteador (50% da dimensão vertical e a 80% da dimensão horizontal com Python).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D04.ipynb)
