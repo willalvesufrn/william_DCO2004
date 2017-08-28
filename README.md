@@ -23,3 +23,9 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 ## [D03: Realizar a Prática 03: Terceiro roteador (50% da dimensão vertical e a 80% da dimensão horizontal com Matlab).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D03.ipynb)
 
 ## [D04: Realizar a Prática 04: Terceiro roteador (50% da dimensão vertical e a 80% da dimensão horizontal com Python).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D04.ipynb)
+
+# Entregáveis do Hands-on 02
+
+## [D01: Interface gráfica utilizando recursos do GUI(teclado_will.fig e teclado_will.m).](https://github.com/willalvesufrn/william_DCO2004/tree/master/Entregaveis_do_Hands-on_02/Entrega_h02_D01)
+
+## [D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música.]
