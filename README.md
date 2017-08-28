@@ -18,9 +18,6 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 
 ## [D01: Discussão do Passo 08 da Prática 01: Ambiente de edição.](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D01.ipynb)
 
-## D02: Passo 03 da Prática 02: Ambiente de depuração (debug).![D02](https://raw.githubusercontent.com/willalvesufrn/william_DCO2004/master/Entregaveis_do_Hands-on_01/foto_3.png)
-Quando foi executado o comando "whos" foi mostrado todas os detalhes das variáveis. Nesse caso temos:
-- Duas variáveis da classe char, que é um vetor de dimenção 1x23, ambas ocupando um espaço de 46 Bytes.
-- Quatro variáveis da classe Double, uma delas é um vetor de dimenção 1x1, ocupando um espaço de 8 Bytes e o restante das variáveis são compostas por um vetor de dimenção 1x10, ocupando um espaço de 80 Bytes.
+## [D02: Passo 03 da Prática 02: Ambiente de depuração (debug).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D02.ipynb)
 
 ## [D03: Realizar a Prática 03: Terceiro roteador (50% da dimensão vertical e a 80% da dimensão horizontal com Matlab).](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_01/Entrega_h01_D03.ipynb)
