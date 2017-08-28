@@ -28,4 +28,4 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 
 ## [D01: Interface gráfica utilizando recursos do GUI(teclado_will.fig e teclado_will.m).](https://github.com/willalvesufrn/william_DCO2004/tree/master/Entregaveis_do_Hands-on_02/Entrega_h02_D01)
 
-## [D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música.]
+## [D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música.](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_02/Entrega_h02_D02.ipynb)
