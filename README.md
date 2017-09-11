@@ -33,3 +33,7 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 ## [D03: Passo 5 Prática 1: Geração, reprodução e plotagem de um tom de áudio.](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_02/Entrega_h02_D03.ipynb)
 
 ## [D04: Passo 4 Prática 2: Abrindo e reproduzindo arquivos de música.](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_02/Entrega_h02_D04.ipynb)
+
+# Entregáveis do Hands-on 03
+
+## [D01:Entrega_h03.ipynb](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_03/Entrega_h03.ipynb)
