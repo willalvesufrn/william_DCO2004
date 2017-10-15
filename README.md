@@ -41,3 +41,7 @@ Esse repositório foi criado para fazer as práticas da disciplina de Laboratór
 # Entregáveis do Hands-on 05
 
 ## [D01:Entrega_h05.ipynb](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_05/Untitled.ipynb)
+
+# Entregáveis do Hands-on 06
+
+## [D01:Entrega_h06.ipynb](https://github.com/willalvesufrn/william_DCO2004/blob/master/Entregaveis_do_Hands-on_06/Entrega_h06.ipynb)
